@@ -1,4 +1,7 @@
 # app/robo_advisor.py
+import json
+import requests
+
 
 print("-------------------------")
 print("SELECTED SYMBOL: XYZ")
